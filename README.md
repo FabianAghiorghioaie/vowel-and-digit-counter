@@ -1,4 +1,4 @@
-# Vowel_and_Digit_Counter
+# Vowel and Digit Counter
   I wrote this for the lab examn of the MicroProcessors Architecture course at my university.
 
 ## How to run:
